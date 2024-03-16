@@ -1,0 +1,63 @@
+A Hostinger oferece planos de hospedagem web confiáveis e seguros para vários tipos de sites e aplicações online. Possuindo 3 planos mensais com benefícios e preços diferentes.
+ 
+Planos:
+- Premium = 11,99/mes (+3 meses grátis)(Mais informações no site) R$25,99/mês* ao renovar
+
+   - Desempenho padrão
+
+   - 100 sites
+
+   - 100 GB de armazenamento SSD
+
+   - Backups semanais
+
+   - Migração de sites grátis
+
+
+- Bussines(recomendado) = 16,99(+3 meses grátis)(Mais informações no site) R$ 44,99/mês* ao renovar
+
+   - Desempenho aprimorado (5x)
+
+   - 100 sites
+
+   - 200 GB de armazenamento SSD
+
+   - Backups diários
+
+   - Migração de sites grátis
+
+   - CDN grátis
+
+
+- Cloud Startup = 49,99/mes(+3 meses grátis)(Mais informações no site) R$99,99/mês* ao renovar
+
+   - Desempenho aprimorado (10x)
+
+   - 300 sites
+
+   - 200 GB de armazenamento SSD
+
+   - Backups diários
+
+   - Migração de sites grátis
+
+   - CDN grátis
+
+   - Ip dedicado
+
+
+Largura de banda ilimitada
+
+Domínio grátis (preço R$ 49,99)
+=> Possui domínio grátis, sendo possivel de se escolher
+=> Mais de 100Gb de armazenamento
+=> Preços e benefícios mais aprofundado, estão no site da Hostinger
+
+Link do Site = https://www.hostinger.com.br/
+
+Tutorial de como colocar o site no ar, usando a Hostinger = https://www.youtube.com/watch?v=7ZC3_QwKo5Q
+
+=> Ensina como hospedar, sendo uma maneira prática e rapida, apenas fazer o upload do site criado dentro da hostinger
+=> Parte de migração do site, algo que consigo fazer tranquilo!!
+
+

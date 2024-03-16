@@ -1,0 +1,12 @@
+1° Passo:
+
+=> Preparar toda o layout do site (posição, tamanho, interações, etc...)
+
+=> Preparar toda parte de estilo, cores, formas, animações, transições, etc...
+
+
+2° Passo:
+
+=> Colocar os videos dentro de cada módulo respectivo
+
+=> Armazenar os videos dentro do youtube ou em um servidor local
