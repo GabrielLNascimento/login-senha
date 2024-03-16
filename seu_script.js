@@ -24,7 +24,7 @@ formLogin.addEventListener('submit', function(event) {
 
     // Verifica as credenciais
     if (verificarCredenciais(usuario, senha)) {
-        window.location.href = '../index.html'; // Exibe mensagem de sucesso
+        window.location.href = 'principal/index.html'; // Exibe mensagem de sucesso
         // Aqui você pode redirecionar o usuário para outra página
         // Por exemplo: window.location.href = 'outra_pagina.html';
     } else {
